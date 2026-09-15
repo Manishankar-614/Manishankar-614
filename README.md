@@ -156,7 +156,7 @@ A web application developed to explore movie information and review functionalit
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manishankar-614/Manishankar-614/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Manishankar-614/Manishankar-614/gh-pages/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
