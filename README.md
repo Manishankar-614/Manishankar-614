@@ -138,9 +138,11 @@ A web application developed to explore movie information and review functionalit
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manishankar-614&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishankar-614&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Manishankar-614&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishankar-614&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="180"/>
 </p>
 
 ---
