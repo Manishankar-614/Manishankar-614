@@ -139,8 +139,8 @@ A web application developed to explore movie information and review functionalit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180"/>
-  <img src="./profile/top-langs.svg" height="180"/>
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
+  <img src="./profile/top-langs.svg" height="180" alt="Most Used Languages"/>
 </p>
 
 ---
