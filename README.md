@@ -2,20 +2,21 @@
 
 ### 🤖 AI/ML Developer | Full-Stack Developer | Software Engineer
 
-I build practical software solutions using **Artificial Intelligence, Machine Learning, Deep Learning, and modern web technologies**.
+I build practical software solutions by combining **Artificial Intelligence, Machine Learning, Deep Learning, and modern web technologies**.
 
-I'm passionate about turning real-world problems into intelligent, scalable, and user-friendly applications.
+I'm passionate about learning through building and turning real-world problems into useful, intelligent applications.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🧠 Exploring Deep Learning, NLP, Computer Vision & Cybersecurity
-- 💻 Building applications with Python, Flask, React & JavaScript
-- 🌱 Interested in AI solutions for real-world problems
-- 🔐 Exploring intelligent cybersecurity systems
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🧠 Exploring **Deep Learning, NLP & Computer Vision**
+- 🔐 Interested in **AI-powered Cybersecurity**
+- 🌱 Interested in applying AI to **Agriculture & Healthcare**
+- 💻 Building applications with **Python, Flask, React & JavaScript**
+- 🗄️ Working with **MongoDB, MySQL & SQLite**
 - 🚀 Constantly learning, experimenting and building
 
 ---
@@ -34,14 +35,10 @@ I'm passionate about turning real-world problems into intelligent, scalable, and
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-**Technologies & Libraries**
+`TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy`
 
-`TensorFlow` `Keras` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib`
-
-**Areas**
-
-`Machine Learning` `Deep Learning` `Computer Vision` `NLP`
-`Classification` `Anomaly Detection` `AI Security`
+**Areas:**  
+Machine Learning • Deep Learning • Computer Vision • NLP • Classification • Anomaly Detection
 
 ### 🌐 Web Development
 
@@ -67,71 +64,57 @@ I'm passionate about turning real-world problems into intelligent, scalable, and
 
 ## 🛡️ Phishing Detection
 
-### `phishing_detection`
+**AI-powered cybersecurity system for detecting phishing threats.**
 
-An AI-based cybersecurity project focused on detecting **phishing and malicious URLs** using machine learning techniques.
+A machine-learning based project focused on identifying malicious and suspicious URLs and phishing attacks.
 
-The project explores intelligent detection approaches that can identify suspicious patterns and help protect users from phishing attacks.
+**Focus:**  
+`Machine Learning` `Deep Learning` `Cybersecurity` `NLP` `Anomaly Detection`
 
-**Focus:**
-
-`Machine Learning` `Cybersecurity` `Phishing Detection`
-`Feature Engineering` `Classification` `Python`
-
-🔗 [View Project](https://github.com/Manishankar-614/phishing_detection)
+🔗 [View Repository](https://github.com/Manishankar-614/phishing_detection)
 
 ---
 
 ## 🌱 Plant Disease Detection
 
-### `Plant_Disease_Detection`
+**Deep-learning based plant disease detection using computer vision.**
 
-A computer-vision based project designed to identify plant diseases from images using **deep learning and image classification**.
+An AI-based system that analyzes plant leaf images to identify diseases and demonstrates the application of deep learning in agriculture.
 
-The project demonstrates how AI can be applied to agriculture to support early disease identification.
+**Focus:**  
+`Deep Learning` `Computer Vision` `CNN` `TensorFlow` `Keras`
 
-**Focus:**
-
-`Deep Learning` `Computer Vision` `CNN`
-`TensorFlow` `Keras` `Image Classification`
-
-🔗 [View Project](https://github.com/Manishankar-614/Plant_Disease_Detection)
-
----
-
-## 🎬 Movie Review System
-
-### `movie-review`
-
-A web-based movie review application developed to demonstrate **frontend development and application design**.
-
-Users can interact with the application to explore movie-related information and reviews through a simple web interface.
-
-**Focus:**
-
-`HTML` `CSS` `JavaScript` `Web Development`
-
-🔗 [View Project](https://github.com/Manishankar-614/movie-review)
+🔗 [View Repository](https://github.com/Manishankar-614/Plant_Disease_Detection)
 
 ---
 
 ## 🌐 Personal Portfolio
 
-### `My_Portfolio`
+**My personal developer portfolio.**
 
-My personal developer portfolio showcasing my **projects, technical skills and development journey**.
+A web-based portfolio showcasing my projects, technical skills and development journey.
 
-It serves as a central place to explore my work and learn more about my interests in software development and AI.
+**Focus:**  
+`Web Development` `HTML` `CSS` `JavaScript`
 
-**Focus:**
-
-`HTML` `CSS` `JavaScript` `Portfolio` `Web Development`
-
-🔗 [View Project](https://github.com/Manishankar-614/My_Portfolio)
+🔗 [View Repository](https://github.com/Manishankar-614/My_Portfolio)
 
 ---
 
-# 🧠 What I'm Interested In
+## 🎬 Movie Review
+
+**Web-based movie review application.**
+
+A web application developed to explore movie information and review functionality while applying full-stack development concepts.
+
+**Focus:**  
+`Web Development` `Flask` `SQLite` `JavaScript`
+
+🔗 [View Repository](https://github.com/Manishankar-614/movie-review)
+
+---
+
+# 🧠 Areas of Interest
 
 ```text
 Artificial Intelligence
