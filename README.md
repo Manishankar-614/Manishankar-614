@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" />
+</p>
+
 # 👋 Hi, I'm Manishankar
 
 ### 🤖 AI/ML Developer | Full-Stack Developer | Software Engineer
